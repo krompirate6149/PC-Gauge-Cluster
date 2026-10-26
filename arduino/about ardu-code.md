@@ -147,6 +147,3 @@ A larger EMA coefficient follows new measurements more quickly; a smaller coeffi
 
 This project is intended as a **visual system-load indicator**, not a precision instrument. The filter, 5% target steps, and gradual servo movement prioritize readability and a calmer display during ordinary PC use. The displayed values naturally lag behind rapid changes because smoothing and physical needle movement take time.
 
-## License
-
-Add your preferred license here before distributing or accepting external contributions.
