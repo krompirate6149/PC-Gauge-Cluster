@@ -93,7 +93,9 @@ pc-gauge-cluster/
 │   ├── Cover.stl
 │   ├── Base.stl
 │   ├── Dial.stl
-│   └── Servo_Mount.stl
+│   ├── Servo_Mount.stl
+│   ├── Needle_Boss.stl
+|   └── Gauge_Needle.stl
 ├── README.md
 └── LICENSE
 ```
