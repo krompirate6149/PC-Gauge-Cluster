@@ -40,6 +40,9 @@ Wire the three servos as follows:
 | CPU | Arduino D5 | External +5V | External GND |
 | RAM | Arduino D6 | External +5V | External GND |
 | GPU | Arduino D7 | External +5V | External GND |
+| GPU_LED | Arduino D4 |
+| RAM_LED | Arduino D3 |
+| CPU_LED | Arduino D2 |
 
 ### Important Power Connections
 
@@ -47,7 +50,8 @@ Wire the three servos as follows:
 2. Connect all servo red wires to the positive terminal of the regulated 5V supply.
 3. Connect all servo ground wires to the supply's GND.
 4. Connect the external supply's GND to an Arduino GND pin.
-5. Connect the Arduino to the PC using USB.
+5. Connect the leds arduino with resistors
+6. Connect the Arduino to the PC using USB.
 
 **Do not power all three servos from the Arduino's 5V pin.** Servo startup and movement can cause voltage drops and reset the Arduino. Ensure the external supply can handle the combined current demand.
 
