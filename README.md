@@ -19,8 +19,8 @@ An Arduino-powered, automotive-style PC gauge cluster that displays real-time CP
 - 3 × Tower Pro SG90 9g positional micro servos
 - 1 × regulated 5V external power supply suitable for the servos
 - USB cable for Arduino communication
-- 3 red led
-- 3 330 Ω resistor
+- 3 x red led
+- 3 x 330 Ω resistor
 - Jumper wires
 - 3D-printed gauge components
 - Windows PC
