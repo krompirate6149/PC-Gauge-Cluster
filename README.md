@@ -15,7 +15,7 @@ An Arduino-powered, automotive-style PC gauge cluster that displays real-time CP
 
 ## 1. Hardware Requirements
 
-- 1 × Arduino Uno
+- 1 × Arduino Nano
 - 3 × Tower Pro SG90 9g positional micro servos
 - 1 × regulated 5V external power supply suitable for the servos
 - USB cable for Arduino communication
