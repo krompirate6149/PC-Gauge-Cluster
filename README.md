@@ -41,6 +41,7 @@ Wire the three servos as follows:
 | RAM | Arduino D6 | External +5V | External GND |
 | GPU | Arduino D7 | External +5V | External GND |
 
+
 Wire the three led as follows:
 
 | LED | Arduino Pin | Resistor |
@@ -48,6 +49,7 @@ Wire the three led as follows:
 | GPU_LED | D4 | 330 Ω |
 | RAM_LED | D3 | 330 Ω |
 | CPU_LED | D2 | 330 Ω |
+
 
 **Note:** Each LED is connected in series with a 330 Ω current-limiting resistor.
 
