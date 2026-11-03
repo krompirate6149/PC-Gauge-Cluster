@@ -1,7 +1,8 @@
 
 # PC Gauge Cluster
-<img width="1448" height="1086" alt="pc-gauge-cluster" src="https://github.com/user-attachments/assets/145d908e-8036-4138-8123-294d47408bda" />
 An Arduino-powered, automotive-style PC gauge cluster that displays real-time CPU, RAM, and GPU utilization using three SG90 micro servos.
+
+<img width="1448" height="1086" alt="pc-gauge-cluster" src="https://github.com/user-attachments/assets/145d908e-8036-4138-8123-294d47408bda" />
 
 ## Features
 
