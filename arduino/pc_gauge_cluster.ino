@@ -34,7 +34,7 @@ int sonServoKomutu[3] = {-1, -1, -1};
 
 // Zamanlama
 unsigned long oncekiHareketZamani = 0;
-const unsigned long HAREKET_ARALIGI = 60;  // Yaklaşık 16.7 derece/saniye
+const unsigned long HAREKET_ARALIGI = 10;  
 
 // Her yeni seri paketi başına tek, sabit filtre katsayısı.
 // Filtre yalnızca yeni ölçüm geldiğinde güncellenir; aynı değer 50 ms'de bir tekrar işlenmez.
